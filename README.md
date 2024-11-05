@@ -1,4 +1,4 @@
-# KLEC-02
+# KLEC-02 "Gravity-36"
 
 https://x.com/Hottyhottea/status/1843859533871058982
 <img src = "https://github.com/user-attachments/assets/21ff8abf-b528-4509-ae43-0f3b31ae8f68" width = "600px" />
@@ -19,3 +19,11 @@ https://x.com/Hottyhottea/status/1843859533871058982
 |<img src = "https://github.com/user-attachments/assets/2839aab1-40ae-45c5-82e6-39dc394a1ebe" width = "1200px" />|アクリルケース|1|[こちらのデータ](https://github.com/takashicompany/klec_02/blob/master/case/klec_02_a4_yushakobo.ai)を遊舎工房の[レーザー加工サービス](https://shop.yushakobo.jp/products/lasercut?variant=48787700744423)にてカット依頼するなどして製造してください。後日に[キーボードアクリルプレート](https://shop.yushakobo.jp/products/keyboard_acrylic_plate)に追加予定です。|
 |<img src = "https://github.com/user-attachments/assets/37b49dd3-f27d-4e82-a113-1393d0518370" width = "1200px" />|[M2スペーサー](https://shop.yushakobo.jp/products/a0800c2?variant=37665435222177)|12|長さはお好みで調整してください。Pro Microなどにもよりますが、7mm~10mmぐらいがオススメです。|
 |<img src = "https://github.com/user-attachments/assets/26e37e8a-66b7-4fd7-8255-90451c3960d4" width = "1200px" />|[M2ネジ 5mm](https://shop.yushakobo.jp/products/a0800n2?variant=37665432993953)|24||
+
+# ファームウェア
+QMK Firmwareへの[プルリクエストはこちら](https://github.com/qmk/qmk_firmware/pull/24559)です。
+
+VIAに対応したファームウェアは[こちら](https://github.com/takashicompany/klec_02/blob/master/via/takashicompany_klec_02_via.hex)です。ソースコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/master/keyboards/takashicompany/klec_02/keymaps/via)になります。
+
+2024年11月5日現在、Remapの審査中ですのでRemapでキーマップを変更したい場合は[こちらのjsonファイル](https://github.com/takashicompany/klec_02/blob/master/via/via.json)をアップロードしてご利用ください。
+
