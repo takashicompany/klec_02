@@ -25,5 +25,7 @@ QMK Firmwareへの[プルリクエストはこちら](https://github.com/qmk/qmk
 
 VIAに対応したファームウェアは[こちら](https://github.com/takashicompany/klec_02/blob/master/via/takashicompany_klec_02_via.hex)です。ソースコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/master/keyboards/takashicompany/klec_02/keymaps/via)になります。
 
-2024年11月5日現在、Remapの審査中ですのでRemapでキーマップを変更したい場合は[こちらのjsonファイル](https://github.com/takashicompany/klec_02/blob/master/via/via.json)をアップロードしてご利用ください。
+[RemapからWebブラウザを用いたファームウェアの書き込み](https://remap-keys.app/keyboards/jiZA8wP7nL4qwY1EUZ8j)とキーマップの変更が可能です。
+
+~2024年11月5日現在、Remapの審査中ですのでRemapでキーマップを変更したい場合は[こちらのjsonファイル](https://github.com/takashicompany/klec_02/blob/master/via/via.json)をアップロードしてご利用ください。~
 
